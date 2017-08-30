@@ -6,7 +6,17 @@ import SocialButtons from './components/socialBtn'
 import Particles from 'react-particles-js';
 
 class App extends Component {
+  getRandomColor = () => {
+    let letters = '0123456789ABCDEF';
+    let color = '#';
+    for (let i = 0; i < 6; i++) {
+      color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+  }
+
   render() {
+    let line_color = this.getRandomColor()
     return (
       <div className="App">
         <Header />
@@ -31,7 +41,7 @@ class App extends Component {
               line_linked: {
                 enable: false,
                 distance: 50,
-                color: "#ffffff",
+                color: line_color,
                 opacity: 0.4,
                 width: 1
               },
