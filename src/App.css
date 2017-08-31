@@ -9,10 +9,12 @@
 
 .weird-april {
   font-family: 'Dancing Script', cursive;
+  color: #fff;
 }
 
 .joyce-header {
-font-family: 'Amatica SC', cursive;
+  font-family: 'Amatica SC', cursive;
+  margin-top: 30px;
 }
 
 .rainbow-animation {
@@ -87,15 +89,14 @@ font-family: 'Amatica SC', cursive;
           transform: scale(1);
 }
 .social-btns {
-
   margin: auto;
   font-size: 0;
   text-align: center;
-
-  top: 0;
+  position: absolute;
+  right: 0;
   bottom: 0;
   left: 0;
-  right: 0;
+  padding: 1rem;
 }
 .social-btns .btn {
   display: inline-block;
