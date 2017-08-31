@@ -87,11 +87,11 @@ font-family: 'Amatica SC', cursive;
           transform: scale(1);
 }
 .social-btns {
-  height: 90px;
+
   margin: auto;
   font-size: 0;
   text-align: center;
-  position: absolute;
+
   top: 0;
   bottom: 0;
   left: 0;
