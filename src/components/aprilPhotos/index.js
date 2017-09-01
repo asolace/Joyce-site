@@ -1,12 +1,25 @@
 import React, { Component } from 'react'
+import { Alert } from 'reactstrap';
 import AprilImageCards from './aprilImageCards'
+import MostPrivateAprilCards from './mostPrivateAprilCards'
 
 class AprilPhotos extends Component {
   render() {
-    if (this.props.location.state) {
+    const status = this.props.location.state
+    if (status) {
       return(
         <div className="april-photo-container">
           <AprilImageCards />
+          {status.userInputPassword === 'head' ?
+            <MostPrivateAprilCards /> :
+              <div className="restricted-alert">
+                <Alert color="danger">
+                  <strong>Restricted!</strong>
+                  <br />
+                  Higher Access Clearance is required.
+                </Alert>
+              </div>
+             }
         </div>
       )
     } else {

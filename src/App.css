@@ -21,6 +21,10 @@
   position: relative;
 }
 
+.restricted-alert {
+  padding: 20px;
+}
+
 .unauth-april-photos {
   color: #fff;
 }
