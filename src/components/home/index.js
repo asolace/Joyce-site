@@ -15,10 +15,17 @@ class Home extends Component {
 
   toggleModal = () => this.setState({ modal: !this.state.modal })
   onPassChange = event => this.setState({ userInputPassword: event.target.value })
+  onFormSubmit = event => {
+    event.preventDefault()
+    this.submitPassword()
+  }
 
   submitPassword = () => {
-    if (this.state.userInputPassword === 'boogerbutt') {
-      console.log('correct pass')
+    if (this.state.userInputPassword === 'lilape') {
+      this.props.history.push({
+        pathname: '/aprilphotos',
+        state: { isAuth: true }
+      })
     } else {
       this.setState({
         formStatus: 'danger',
@@ -37,7 +44,7 @@ class Home extends Component {
             <ModalBody>
               Please enter password to see my private pictures...
             </ModalBody>
-            <Form>
+            <Form onSubmit={this.onFormSubmit}>
               <FormGroup color={this.state.formStatus}>
                 <Label for="password">Password</Label>
                 <Input type="password" id="password" placeholder={this.state.passwordPlaceholder} onChange={this.onPassChange}/>
@@ -54,24 +61,5 @@ class Home extends Component {
     )
   }
 }
-
-// render() {
-//     const { from } = this.props.location.state || { from: { pathname: '/' } }
-//     const { redirectToReferrer } = this.state
-//
-//     if (redirectToReferrer) {
-//       return (
-//         <Redirect to={from}/>
-//       )
-//     }
-//
-//     return (
-//       <div>
-//         <p>You must log in to view the page at {from.pathname}</p>
-//         <button onClick={this.login}>Log in</button>
-//       </div>
-//     )
-//   }
-// }
 
 export default Home
