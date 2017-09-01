@@ -5,7 +5,7 @@ import MostPrivateAprilCards from './mostPrivateAprilCards'
 
 class AprilPhotos extends Component {
   render() {
-    const status = this.props.location.state
+    const status = this.props.location.state.userInputPassword
     if (status) {
       return(
         <div className="april-photo-container">
