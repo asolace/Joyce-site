@@ -9,7 +9,18 @@ class AprilPhotos extends Component {
     if (status) {
       return(
         <div className="april-photo-container">
-          <AprilImageCards />
+
+          {status.userInputPassword === 'apple' ?
+            <AprilImageCards /> :
+              <div className="restricted-alert">
+                <Alert color="danger">
+                  <strong>Restricted!</strong>
+                  <br />
+                  Access Clearance is required.
+                </Alert>
+              </div>
+             }
+
           {status.userInputPassword === 'head' ?
             <MostPrivateAprilCards /> :
               <div className="restricted-alert">
@@ -20,6 +31,7 @@ class AprilPhotos extends Component {
                 </Alert>
               </div>
              }
+
         </div>
       )
     } else {
