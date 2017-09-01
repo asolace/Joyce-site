@@ -42,9 +42,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img1} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -52,9 +52,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img2} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -62,9 +62,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img3} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -77,9 +77,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img4} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -87,9 +87,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img5} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -97,9 +97,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img6} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -112,9 +112,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img7} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -122,9 +122,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img8} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -132,9 +132,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img9} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -147,9 +147,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img10} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -157,9 +157,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img11} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -167,9 +167,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img12} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -182,9 +182,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img13} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -192,9 +192,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img14} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -202,9 +202,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img15} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -217,9 +217,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img16} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -227,9 +227,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img17} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -237,9 +237,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img18} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -252,9 +252,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img19} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -262,9 +262,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img20} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -272,9 +272,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img21} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -287,9 +287,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img22} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -297,9 +297,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img23} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -307,9 +307,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img24} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -322,9 +322,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img25} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -332,9 +332,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img26} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -342,9 +342,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img27} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -357,9 +357,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img28} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -367,9 +367,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img29} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -377,9 +377,9 @@ const AprilImageCards = () => {
           <Card>
             <CardImg top width="100%" src={img30} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRIL!</CardTitle>
+              <CardSubtitle>My friend/sister April</CardSubtitle>
+              <CardText>Some of the best moments of my life was spent with this derp.</CardText>
             </CardBlock>
           </Card>
         </Col>

@@ -27,9 +27,9 @@ const MostPrivateAprilCards = () => {
           <Card>
             <CardImg top width="100%" src={img31} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRILER</CardTitle>
+              <CardSubtitle>My secret sister April</CardSubtitle>
+              <CardText>I can't live if living is without youuuu!</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -37,9 +37,9 @@ const MostPrivateAprilCards = () => {
           <Card>
             <CardImg top width="100%" src={img32} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRILER</CardTitle>
+              <CardSubtitle>My secret sister April</CardSubtitle>
+              <CardText>I can't live if living is without youuuu!</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -47,9 +47,9 @@ const MostPrivateAprilCards = () => {
           <Card>
             <CardImg top width="100%" src={img33} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRILER</CardTitle>
+              <CardSubtitle>My secret sister April</CardSubtitle>
+              <CardText>I can't live if living is without youuuu!</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -62,9 +62,9 @@ const MostPrivateAprilCards = () => {
           <Card>
             <CardImg top width="100%" src={img34} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRILER</CardTitle>
+              <CardSubtitle>My secret sister April</CardSubtitle>
+              <CardText>I can't live if living is without youuuu!</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -72,9 +72,9 @@ const MostPrivateAprilCards = () => {
           <Card>
             <CardImg top width="100%" src={img35} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRILER</CardTitle>
+              <CardSubtitle>My secret sister April</CardSubtitle>
+              <CardText>I can't live if living is without youuuu!</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -82,9 +82,9 @@ const MostPrivateAprilCards = () => {
           <Card>
             <CardImg top width="100%" src={img36} alt="Card image cap" />
             <CardBlock>
-              <CardTitle>Card title</CardTitle>
-              <CardSubtitle>Card subtitle</CardSubtitle>
-              <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+              <CardTitle>APRILER</CardTitle>
+              <CardSubtitle>My secret sister April</CardSubtitle>
+              <CardText>I can't live if living is without youuuu!</CardText>
             </CardBlock>
           </Card>
         </Col>
@@ -97,9 +97,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img37} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -107,9 +107,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img38} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -117,9 +117,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img39} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -132,9 +132,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img40} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -142,9 +142,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img41} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -152,9 +152,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img42} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -167,9 +167,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img43} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -177,9 +177,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img44} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
@@ -187,9 +187,9 @@ const MostPrivateAprilCards = () => {
             <Card>
               <CardImg top width="100%" src={img45} alt="Card image cap" />
               <CardBlock>
-                <CardTitle>Card title</CardTitle>
-                <CardSubtitle>Card subtitle</CardSubtitle>
-                <CardText>Some quick example text to build on the card title and make up the bulk of the card's content.</CardText>
+                <CardTitle>APRILER</CardTitle>
+                <CardSubtitle>My secret sister April</CardSubtitle>
+                <CardText>I can't live if living is without youuuu!</CardText>
               </CardBlock>
             </Card>
           </Col>
