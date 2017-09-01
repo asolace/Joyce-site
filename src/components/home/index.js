@@ -21,7 +21,7 @@ class Home extends Component {
   }
 
   submitPassword = () => {
-    if (this.state.userInputPassword === 'apple' || 'pineapple') {
+    if (this.state.userInputPassword === 'apple' || this.state.userInputPassword === 'pineapple') {
       this.props.history.push({
         pathname: '/aprilphotos',
         state: {

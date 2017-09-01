@@ -5,12 +5,12 @@ import MostPrivateAprilCards from './mostPrivateAprilCards'
 
 class AprilPhotos extends Component {
   render() {
-    const status = this.props.location.state.userInputPassword
+    const status = this.props.location.state
     if (status) {
       return(
         <div className="april-photo-container">
 
-          {status.userInputPassword === 'apple' ?
+          {status.userInputPassword === 'apple' || status.userInputPassword === 'pineapple' ?
             <AprilImageCards /> :
               <div className="restricted-alert">
                 <Alert color="danger">
@@ -21,7 +21,7 @@ class AprilPhotos extends Component {
               </div>
              }
 
-          {status.userInputPassword === 'head' ?
+          {status.userInputPassword === 'pineapple' ?
             <MostPrivateAprilCards /> :
               <div className="restricted-alert">
                 <Alert color="danger">
