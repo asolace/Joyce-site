@@ -10,25 +10,26 @@ class Photos extends Component {
   render() {
     const status = this.props.location.state
     if (status) {
+      const UIP = status.userInputPassword
       return(
         <div className="april-photo-container">
 
-          {status.userInputPassword === 'apple' || status.userInputPassword === 'pineapple' ?
+          {UIP === 'apple' || UIP === 'pineapple' || UIP === 'jackster' ?
             <AprilImageCards /> :
               <Restricted name="April"/>
             }
 
-          {status.userInputPassword === 'pineapple' ?
+          {UIP === 'pineapple' || UIP === 'jackster' ?
             <MostPrivateAprilCards /> :
               <Restricted name="More Privated April"/>
             }
 
-          {status.userInputPassword === 'joy' ?
+          {UIP === 'joy' || UIP === 'jackster' ?
             <JoyceImageCards /> :
               <Restricted name="Joyce"/>
             }
 
-          {status.userInputPassword === 'winner' ?
+          {UIP === 'winner' || UIP === 'jackster' ?
             <WinnyImageCards /> :
               <Restricted name="Winny"/>
             }

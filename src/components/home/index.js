@@ -21,7 +21,7 @@ class Home extends Component {
   }
 
   submitPassword = () => {
-    const Passwords = ['apple', 'pineapple', 'joy', 'winner']
+    const Passwords = ['apple', 'pineapple', 'joy', 'winner', 'jackster']
     if (Passwords.includes(this.state.userInputPassword)) {
       this.props.history.push({
         pathname: '/photos',
