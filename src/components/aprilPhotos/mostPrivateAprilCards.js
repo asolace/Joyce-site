@@ -3,21 +3,21 @@ import {
   Card, CardImg, CardText, CardBlock, CardTitle, CardSubtitle,
   Container, Row, Col } from 'reactstrap';
 
-import img31 from '../../aprilPic/-1.jpg'
-import img32 from '../../aprilPic/-2.jpg'
-import img33 from '../../aprilPic/-3.jpg'
-import img34 from '../../aprilPic/-4.jpg'
-import img35 from '../../aprilPic/-5.jpg'
-import img36 from '../../aprilPic/-6.jpg'
-import img37 from '../../aprilPic/-7.jpg'
-import img38 from '../../aprilPic/-8.jpg'
-import img39 from '../../aprilPic/-9.jpg'
-import img40 from '../../aprilPic/-10.jpg'
-import img41 from '../../aprilPic/-11.jpg'
-import img42 from '../../aprilPic/-12.jpg'
-import img43 from '../../aprilPic/-13.jpg'
-import img44 from '../../aprilPic/-14.jpg'
-import img45 from '../../aprilPic/-15.jpg'
+import img31 from '../../photos/aprilPics/-1.jpg'
+import img32 from '../../photos/aprilPics/-2.jpg'
+import img33 from '../../photos/aprilPics/-3.jpg'
+import img34 from '../../photos/aprilPics/-4.jpg'
+import img35 from '../../photos/aprilPics/-5.jpg'
+import img36 from '../../photos/aprilPics/-6.jpg'
+import img37 from '../../photos/aprilPics/-7.jpg'
+import img38 from '../../photos/aprilPics/-8.jpg'
+import img39 from '../../photos/aprilPics/-9.jpg'
+import img40 from '../../photos/aprilPics/-10.jpg'
+import img41 from '../../photos/aprilPics/-11.jpg'
+import img42 from '../../photos/aprilPics/-12.jpg'
+import img43 from '../../photos/aprilPics/-13.jpg'
+import img44 from '../../photos/aprilPics/-14.jpg'
+import img45 from '../../photos/aprilPics/-15.jpg'
 
 const MostPrivateAprilCards = () => {
   return (

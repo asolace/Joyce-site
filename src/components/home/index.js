@@ -21,9 +21,10 @@ class Home extends Component {
   }
 
   submitPassword = () => {
-    if (this.state.userInputPassword === 'apple' || this.state.userInputPassword === 'pineapple') {
+    const Passwords = ['apple', 'pineapple', 'joy', 'winner']
+    if (Passwords.includes(this.state.userInputPassword)) {
       this.props.history.push({
-        pathname: '/aprilphotos',
+        pathname: '/photos',
         state: {
           isAuth: true,
           userInputPassword: this.state.userInputPassword
